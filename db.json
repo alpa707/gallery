@@ -1,0 +1,17 @@
+"paintings": [
+    {"id": 1, "Old Village", "price": 15000 },
+    {"id": 2, "Through time", "price": 12500 },
+    {"id": 3, "Development", "price": 9000 },
+    {"id": 4, "Snowy", "price": 7000 },
+    {"id": 5, "Blossoming of flowers", "price": 2500 },
+    {"id": 6, "Brain Tree", "price": 3000 },
+  
+    ]
+"Painting supplies": [
+    {"id": 1, "Brushes", "price": 150 },
+    {"id": 2, "Paints", "price": 1000 },
+    {"id": 3, "Pencils", "price": 90 },
+    {"id": 4, "Easel", "price": 5000 },
+    {"id": 5, "Papers", "price": 250 },
+  
+    ]
